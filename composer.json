@@ -1,0 +1,17 @@
+{
+  "name": "keadon/dataProvider",
+  "description": "数据生成工具",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "keadon",
+      "email": "keadon@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "keadon\\dataProvider\\": "src"
+    }
+  }
+}
